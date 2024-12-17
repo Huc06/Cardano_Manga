@@ -1,6 +1,10 @@
 # React + TypeScript + Vite
 
-... (current content) ...
+## Introduction
+Our vision is to create a decentralized, community-driven manga platform where readers can actively participate in decision-making, support manga translation projects, and contribute through a DAO system.
+
+## Resources
+For more information about our project, you can read the detailed document [here](https://turtles-play-cp6.craft.me/YzejPLkxvf0jQW).
 
 ## 🚀 Running the Application
 
