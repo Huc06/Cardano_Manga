@@ -7,8 +7,8 @@ const CurrentPlan = () => {
           <section>
             <h2 className="text-2xl font-semibold mb-4">Objective</h2>
             <p className="text-gray-700">
-              Build a community manga platform where readers can directly support their favorite authors 
-              and participate in decision-making through the DAO system.
+                Our vision is to create a decentralized, community-driven manga platform where readers can actively participate in decision-making, support manga translation projects, and contribute through a DAO system. <br />
+                The platform will focus on translating manga into multiple languages, ensuring global accessibility, collaboration, and rewarding contributions while maintaining transparency.
             </p>
           </section>
           
